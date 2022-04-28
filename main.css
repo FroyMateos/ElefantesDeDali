@@ -13,7 +13,7 @@
     }
     @font-face {
         font-family: bradley;
-        src: url(/static/letraLogo.otf);
+        src: url(static/letraLogo.otf);
     }
 /*Navbar*/
       header{
@@ -151,7 +151,7 @@
 /*Home*/
      .home{
         height: 100vh;
-        background-image: url(/static/6.jpg);
+        background-image: url(static/6.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: 10% 90%;
