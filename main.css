@@ -13,7 +13,7 @@
     }
     @font-face {
         font-family: bradley;
-        src: url(static/letraLogo.otf);
+        src: url(static/letraLogo.otf) format('opentype');;
     }
 /*Navbar*/
       header{
